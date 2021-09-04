@@ -6,6 +6,7 @@ https://saitejakalepu.github.io/Breaking-Bad/
 
 <li>React</li>
 <li>Redux</li>
+<li>Axios</li>
 
 ### `npm start`
 
