@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Wanna meet the characters ? Click the link below
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://saitejakalepu.github.io/Breaking-Bad/
 
-## Available Scripts
+## Techonologies used
 
-In the project directory, you can run:
+<li>React</li>
 
 ### `npm start`
 
