@@ -5,6 +5,7 @@ https://saitejakalepu.github.io/Breaking-Bad/
 ## Techonologies used
 
 <li>React</li>
+<li>Redux</li>
 
 ### `npm start`
 
