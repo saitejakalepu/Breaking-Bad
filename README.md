@@ -1,6 +1,5 @@
-# Wanna meet the characters ? Click the link below
-
-https://saitejakalepu.github.io/Breaking-Bad/
+# Wanna meet the characters ?
+Click me https://saitejakalepu.github.io/Breaking-Bad/
 
 ## Techonologies used
 
