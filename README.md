@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# Wanna meet the characters ?
+Click me https://saitejakalepu.github.io/Breaking-Bad/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Techonologies used
 
-## Available Scripts
-
-In the project directory, you can run:
+<li>React</li>
+<li>Redux</li>
+<li>Axios</li>
 
 ### `npm start`
 
