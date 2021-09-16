@@ -2,12 +2,12 @@ import React from 'react'
 
 const CharacterItem = ({ character }) => {
 
-  console.log(character);
+ // console.log(character);
   return (
     <div className='card'>
       <div className='card-inner'>
         <div className='card-front'>
-          <img src={character.img} alt='' />
+          <img src={character.img} alt='image' />
         </div>
         <div className='card-back'>
           <h1>{character.name}</h1>

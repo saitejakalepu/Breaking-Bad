@@ -4,7 +4,7 @@ import Spinner from './spinner'
 
 const CharacterGrid = ({ checkLoading , allCharacters }) => {
 
-  console.log(allCharacters);
+  //console.log(allCharacters);
   return checkLoading ? (
     <Spinner />
   ) :  (

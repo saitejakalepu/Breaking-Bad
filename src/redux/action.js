@@ -14,7 +14,14 @@ export const setCharacters =(response)=>{
 
   export const setLoading =(value)=>{
     return {
-      type:"LOADING",
+      type:"SET_LOADING",
       payload : value
+    }
+  }
+
+  export const setError =(msg)=>{
+    return {
+      type:"SET_ERROR",
+      payload : msg
     }
   }

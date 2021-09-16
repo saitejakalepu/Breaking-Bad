@@ -1,33 +1,36 @@
+const initialState= {
+    loading : true,
+    data :[],
+    input :'',
+    error : ''
+}
 
-
- export const charReducer=(state=[], {type,payload})=>{
+ export const reducer=(state=initialState, {type,payload})=>{
     switch(type)
     {
-        case "SET_CHARACTERS" : 
-        return payload
+        
+        case "SET_CHARACTERS" :
+            return{
+                ...state,
+                loading : false,
+                data : payload,
+                error : ''
+            }
+        case "SET_INPUT":
+            return{
+                ...state,
+                loading : false,
+                input : payload,
+            }
+         case "SET_ERROR":
+                return{
+                    ...state,
+                    loading : true,
+                    error : payload,
+                }
         default :
         return state
     }
 }
 
 
-export const inputReducer=(state="", {type,payload})=>{
-    switch(type)
-    {
-        case "SET_INPUT" : 
-        return payload
-        default :
-        return state
-    }
-}
-
-
-export const loadingReducer=(state=true, {type,payload})=>{
-    switch(type)
-    {
-        case "LOADING" : 
-        return false
-        default :
-        return state
-    }
-}
