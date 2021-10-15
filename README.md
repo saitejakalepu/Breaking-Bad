@@ -5,10 +5,10 @@
 https://saitejakalepu.github.io/Breaking-Bad/
 
 ### Features :
-<li>Fetch data from API</li>
-<li>Display character cards</li>
+<li>Fetching data from API</li>
+<li>Display data as character cards</li>
 <li>Filter Characters</li>
-<li>Molbile , tablet and web responsive App</li>
+<li>Mobile , tablet and web responsive App</li>
 
 ### Techonologies used
 
