@@ -10,3 +10,9 @@ https://saitejakalepu.github.io/Breaking-Bad/
 <li>Redux</li>
 <li>Axios</li>
 <li>React Testing Library</li>
+
+#
+
+<li>This Web app is designed using React </li>
+<li>Application renders the characters of breaking bad(tv series) from an API("https://breakingbadapi.com/api/characters/")</li>
+<li>Application filters the characters based on search input</li>
