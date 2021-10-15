@@ -1,4 +1,6 @@
-# Wanna meet the characters ?
+# Introduction to Breaking Bad Characters
+
+
 Click me https://saitejakalepu.github.io/Breaking-Bad/
 
 ## Techonologies used
