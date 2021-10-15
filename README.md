@@ -4,6 +4,12 @@
 ### Meet the characters here :
 https://saitejakalepu.github.io/Breaking-Bad/
 
+### Features :
+<li>Fetch data from API</li>
+<li>Display character cards</li>
+<li>Filter Characters</li>
+<li>Molbile , tablet and web responsive App</li>
+
 ### Techonologies used
 
 <li>React</li>
